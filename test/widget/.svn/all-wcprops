@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/24549/plugins/sfFormExtraPlugin/tags/RELEASE_1_1_1/test/widget
+END
+sfWidgetFormSelectUSStateTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/!svn/ver/24549/plugins/sfFormExtraPlugin/tags/RELEASE_1_1_1/test/widget/sfWidgetFormSelectUSStateTest.php
+END
+sfWidgetFormReCaptchaTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/!svn/ver/24549/plugins/sfFormExtraPlugin/tags/RELEASE_1_1_1/test/widget/sfWidgetFormReCaptchaTest.php
+END

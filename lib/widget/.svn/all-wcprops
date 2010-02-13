@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/24549/plugins/sfFormExtraPlugin/tags/RELEASE_1_1_1/lib/widget
+END
+sfWidgetFormPropelJQueryAutocompleter.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/!svn/ver/24549/plugins/sfFormExtraPlugin/tags/RELEASE_1_1_1/lib/widget/sfWidgetFormPropelJQueryAutocompleter.class.php
+END
+sfWidgetFormSelectDoubleList.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/!svn/ver/24549/plugins/sfFormExtraPlugin/tags/RELEASE_1_1_1/lib/widget/sfWidgetFormSelectDoubleList.class.php
+END
+sfWidgetFormTextareaTinyMCE.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/!svn/ver/24549/plugins/sfFormExtraPlugin/tags/RELEASE_1_1_1/lib/widget/sfWidgetFormTextareaTinyMCE.class.php
+END
+sfWidgetFormDoctrineChoiceGrouped.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/!svn/ver/24549/plugins/sfFormExtraPlugin/tags/RELEASE_1_1_1/lib/widget/sfWidgetFormDoctrineChoiceGrouped.class.php
+END
+sfWidgetFormSelectUSState.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/!svn/ver/24549/plugins/sfFormExtraPlugin/tags/RELEASE_1_1_1/lib/widget/sfWidgetFormSelectUSState.class.php
+END
+sfWidgetFormReCaptcha.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/!svn/ver/24549/plugins/sfFormExtraPlugin/tags/RELEASE_1_1_1/lib/widget/sfWidgetFormReCaptcha.class.php
+END
+sfWidgetFormDoctrineJQueryAutocompleter.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/!svn/ver/24549/plugins/sfFormExtraPlugin/tags/RELEASE_1_1_1/lib/widget/sfWidgetFormDoctrineJQueryAutocompleter.class.php
+END
+sfWidgetFormJQueryDate.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/!svn/ver/24549/plugins/sfFormExtraPlugin/tags/RELEASE_1_1_1/lib/widget/sfWidgetFormJQueryDate.class.php
+END
+sfWidgetFormPropelChoiceGrouped.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/!svn/ver/24549/plugins/sfFormExtraPlugin/tags/RELEASE_1_1_1/lib/widget/sfWidgetFormPropelChoiceGrouped.class.php
+END
+sfWidgetFormJQueryAutocompleter.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/!svn/ver/24549/plugins/sfFormExtraPlugin/tags/RELEASE_1_1_1/lib/widget/sfWidgetFormJQueryAutocompleter.class.php
+END
